@@ -1,33 +1,28 @@
-pilersuivoq qanimut(qaniit, qaaniit) $
-    aallarpoq qaniit + qaaniit
+nalunaarpoq ilanngunneq(nanoq a, nanoq b) $
+    allappoq("Akia: " + (a + b));
 $
 
-pilersuivoq qavavut(qaniit, qaaniit) $
-    aallarpoq qaniit - qaaniit
+nalunaarpoq immikkoortinneq(nanoq a, nanoq b) $
+    allappoq("Assigiinngitsut: " + (a - b));
 $
 
-pilersuivoq qasut(qaniit, qaaniit) $
-    aallarpoq qaniit * qaaniit
+nalunaarpoq multiplier(a, b) $
+    allappoq("Amerlanerit: " + (a * b));
 $
 
-pilersuivoq qasuguk(qaniit, qaaniit) $
-    piffissap (qaaniit == 0) $
-        putusaavoq("Qanit tusaagallassuk, taamuuna akuerisariaqanngilaq")
-        aallarpoq
+nalunaarpoq agguaanneq(a, b) $
+    imaattumik (b == 0) $
+        allappoq("Kisitsit agguaatinneqarsinnaanngilaq");
     $
-    aallarpoq qaniit / qaaniit
+    allappoq("Agguaaneq: " + (a / b));
 $
 
-pilersuivoq qasungut(qaniit, qaaniit) $
-    aallarpoq qaniit ^ qaaniit
-$
+najoqqutaq_main() $
+    nanoq x = 8;
+    nanoq y = 4;
 
-pilersuivoq nunaasaq() $
-    nerivoq nunaasaq = 0
-    nerivoq qaniit = 0
-    nerivoq qaaniit = 0
-    nerivoq op = ""
-    
-    putusaavoq("Puffarfigiuk qaniit")
-    qaniit = qaaqqu
+    ilanngunneq(x, y);
+    immikkoortinneq(x, y);
+    multiplier(x, y);
+    agguaanneq(x, y);
 $
