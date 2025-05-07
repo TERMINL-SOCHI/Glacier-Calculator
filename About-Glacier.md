@@ -3,32 +3,34 @@
 **Version:** 0.1-alpha  
 **Status:** Emotionally unstable  
 **Author:** Just me. I don't even speak Kalaallisut.  
+**Why:** I don't know, i just hate myself
 
----
+<hr>
 
 ### Introduction
 
-**Glacier** is a high-level, low-compassion programming language written entirely in **Kalaallisut**, structured with the chaotic elegance of **C++**, **Python**, and pure hatred. Code blocks are defined using **`$`** instead of braces because curly brackets are for cowards.
+**Glacier** is a high-level,  programming language written entirely in **Kalaallisut**, structured with the chaos of **C++**, **Python**, and pure self-hate. Code blocks are defined using **`$`** instead of braces because curly brackets are for cowards.
 
-Glacier is designed to confuse readers, scare recruiters, and spiritually injure anyone who dares `git clone`.
+Glacier is designed to confuse readers, scare recruiters, and emotionally ruin anyone who dares `git clone`.
+Glacier has no official interpreter or compiler yet, but I am working on it. It will take a while but one day the official Glacier compiler shall release.
 
----
+<hr>
 
 ### Features
 
 - Entire syntax in **Kalaallisut** (even though I don't know it).
 - Uses `$` to denote code blocks.
-- Inspired by **C++**, **C#**, and **Python**, then corrupted.
-- Readable only to the extremely devoted or linguistically unhinged.
-- Supports basic math, conditionals, loops, and existential dread.
+- Inspired by **C++**, **C**, and **Python**, then corrupted.
+- Readable only to the extremely devoted or linguistically unhinged (or native Greenlandic people)
+- Supports basic math, conditionals, loops, and pain.
 
----
+<hr>
 
 ### File Extension
 
 Glacier source files use `.glacier` — which does absolutely nothing except cause GitHub to render them as plain text.
 
----
+<hr>
 
 ### Example Program
 
@@ -68,3 +70,22 @@ allanit $
     allappoq("a minneruvoq");
 $
 
+### Loops
+
+qaangerniarpoq (nanoq i = 0; i < 5; i++) $
+    allappoq(i);
+$
+
+### Input and Output
+
+Print: allappoq("...")
+Input: atorneq()
+
+### Comments
+<br>
+`# This is a comment`
+`# You are already confused`
+<br>
+### Error Messages
+<br>
+Error messages either appear in Kalaallisut or Danish, depends on the error
