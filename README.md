@@ -1,5 +1,5 @@
-# Glacier-Calculator
-Glacier isn't a real programming language, but I'm working on it!
+### Glacier-Calculator
+This program functions as a calculator, written in Glacier, a fake programming language being developed by Terminl (me)
 
 ### What is Glacier?
 Glacier is a programming language made by me (Terminl Sochi)!
