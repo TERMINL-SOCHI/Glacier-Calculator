@@ -1,4 +1,4 @@
-### Nanoq Programming Language
+### Siku Programming Language
 
 **Version:** 0.1-alpha  
 **Status:** Emotionally unstable  
@@ -9,16 +9,16 @@
 
 ### Introduction
 
-**Nanoq** is a high-level,  programming language written entirely in **Kalaallisut**, structured with the chaos of **C++**, **Python**, and pure self-hate. Code blocks are defined using **`$`** instead of braces because curly brackets are for cowards.
+**Siku** is a high-level,  programming language written entirely in **Kalaallisut**, structured with the chaos of **C++**, **Python**, and pure self-hate. Code blocks are defined using **`$`** instead of braces because curly brackets are for cowards.
 
-Nanoq is designed to confuse readers, scare recruiters, and emotionally ruin anyone who dares `git clone`.
-Nanoq has no official interpreter or compiler yet, but I am working on it. It will take a while but one day the official Nanoq compiler shall release.
+Siku is designed to confuse readers, scare recruiters, and emotionally ruin anyone who dares `git clone`.
+Siku has no official interpreter or compiler yet, but I am working on it. It will take a while but one day the official Siku compiler shall release.
 
 <hr>
 
-### Nanoq Compiler
+### Siku Compiler
 
-The compielr I will build for Nanoq will work by translating Nanoq into Python, and then it will be run. Similar to TypeScript and JavaScript.
+The compielr I will build for Siku will work by translating Siku into Python, and then it will be run. Similar to TypeScript and JavaScript.
 
 <hr>
 
@@ -34,7 +34,7 @@ The compielr I will build for Nanoq will work by translating Nanoq into Python, 
 
 ### File Extension
 
-Nanoq source files use `.Nanoq` — `.Nanoq` is not a real file extension, and VS Code (and GitHub) just treat them as text files
+Siku source files use `.siku` — `.siku` is not a real file extension, and VS Code (and GitHub) just treat them as text files
 
 <hr>
 

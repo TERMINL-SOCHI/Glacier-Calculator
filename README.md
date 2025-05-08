@@ -1,14 +1,14 @@
-### Nanoq-Calculator
-This program functions as a calculator, written in Nanoq, a fake programming language being developed by Terminl (me)
+### Siku-Calculator
+This program functions as a calculator, written in Siku, a fake programming language being developed by Terminl (me)
 
-### What is Nanoq?
-Nanoq is a programming language made by me (Terminl Sochi)!
+### What is Siku?
+Siku is a programming language made by me (Terminl Sochi)!
 It is a mix of C/C++/C# and Python, and written in Greenlandic/Kalaallisut!
 This serves no purpose, it's just something I came up with and I love it.
 
 ### Is there an official interpreter or compiler?
 No, not yet but I will begin on it at some point.
-Nanoq will be a compiled language when it's done, but first I will work on an interpreter written in Python.
+Siku will be a compiled language when it's done, but first I will work on an interpreter written in Python.
 
 ### Does the code in this repository actually work?
 Nope!
