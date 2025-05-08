@@ -1,4 +1,4 @@
-### Glacier Programming Language
+### Nanoq Programming Language
 
 **Version:** 0.1-alpha  
 **Status:** Emotionally unstable  
@@ -9,26 +9,32 @@
 
 ### Introduction
 
-**Glacier** is a high-level,  programming language written entirely in **Kalaallisut**, structured with the chaos of **C++**, **Python**, and pure self-hate. Code blocks are defined using **`$`** instead of braces because curly brackets are for cowards.
+**Nanoq** is a high-level,  programming language written entirely in **Kalaallisut**, structured with the chaos of **C++**, **Python**, and pure self-hate. Code blocks are defined using **`$`** instead of braces because curly brackets are for cowards.
 
-Glacier is designed to confuse readers, scare recruiters, and emotionally ruin anyone who dares `git clone`.
-Glacier has no official interpreter or compiler yet, but I am working on it. It will take a while but one day the official Glacier compiler shall release.
+Nanoq is designed to confuse readers, scare recruiters, and emotionally ruin anyone who dares `git clone`.
+Nanoq has no official interpreter or compiler yet, but I am working on it. It will take a while but one day the official Nanoq compiler shall release.
+
+<hr>
+
+### Nanoq Compiler
+
+The compielr I will build for Nanoq will work by translating Nanoq into Python, and then it will be run. Similar to TypeScript and JavaScript.
 
 <hr>
 
 ### Features
 
 - Entire syntax in **Kalaallisut** (even though I don't know it).
-- Uses `$` to denote code blocks.
-- Inspired by **C++**, **C**, and **Python**, then corrupted.
-- Readable only to the extremely devoted or linguistically unhinged (or native Greenlandic people)
+- Uses `$` to denote code blocks instead of `{ }`.
+- Inspired by **C++**, **C**, and **Python**, then turned into a torture method.
+- Readable only to someone with godlike memory, or a person who has learnt Kalaallisut (or native Greenlandic people)
 - Supports basic math, conditionals, loops, and pain.
 
 <hr>
 
 ### File Extension
 
-Glacier source files use `.glacier` — which does absolutely nothing except cause GitHub to render them as plain text.
+Nanoq source files use `.Nanoq` — `.Nanoq` is not a real file extension, and VS Code (and GitHub) just treat them as text files
 
 <hr>
 
