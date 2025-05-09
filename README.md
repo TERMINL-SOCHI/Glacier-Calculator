@@ -1,8 +1,8 @@
-### Siku-Calculator
-This program functions as a calculator, written in Siku, a fake programming language being developed by Terminl (me)
+### SikuLang
+This repo is for examples of programs, written in SikuLang. A fake programming language being developed by Terminl (me)
 
 ### What is Siku?
-Siku is a programming language made by me (Terminl Sochi)!
+Siku is a programming language made by me (Terminl)!
 It is a mix of C/C++/C# and Python, and written in Greenlandic/Kalaallisut!
 This serves no purpose, it's just something I came up with and I love it.
 

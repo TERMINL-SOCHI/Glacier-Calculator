@@ -1,7 +1,7 @@
-### Siku Programming Language
+### SikuLang Scripting language
 
 **Version:** 0.1-alpha  
-**Status:** Emotionally unstable  
+**Status:** i want to kms
 **Author:** Just me. I don't even speak Kalaallisut.  
 **Why:** I don't know, i just hate myself
 
