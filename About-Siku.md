@@ -11,14 +11,14 @@
 
 **Siku** is a high-level,  programming language written entirely in **Kalaallisut**, structured with the chaos of **C++**, **Python**, and pure self-hate. Code blocks are defined using **`$`** instead of braces because curly brackets are for cowards.
 
-Siku is designed to confuse readers, scare recruiters, and emotionally ruin anyone who dares `git clone`.
+Siku is designed to confuse everyone, because I hate myself and hoever uses this language.
 Siku has no official interpreter or compiler yet, but I am working on it. It will take a while but one day the official Siku compiler shall release.
 
 <hr>
 
 ### Siku Compiler
 
-The compielr I will build for Siku will work by translating Siku into Python, and then it will be run. Similar to TypeScript and JavaScript.
+The compielr I will build for Siku will work by translating Siku into Python, and then it will be run. Similar to TypeScript being translated into JavaScript.
 
 <hr>
 
@@ -34,7 +34,7 @@ The compielr I will build for Siku will work by translating Siku into Python, an
 
 ### File Extension
 
-Siku source files use `.siku` — `.siku` is not a real file extension, and VS Code (and GitHub) just treat them as text files
+Siku source files use `.siku` — `.siku` is not a real file extension, and VS Code (along with GitHub) just treat them as text files
 
 <hr>
 
