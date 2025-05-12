@@ -18,7 +18,7 @@ Siku has no official interpreter or compiler yet, but I am working on it. It wil
 
 ### Siku Compiler
 
-The compielr I will build for Siku will work by translating Siku into Python, and then it will be run. Similar to TypeScript being translated into JavaScript.
+The compiler I will build for Siku will work by translating Siku into Python, and then it will be run. Similar to TypeScript being translated into JavaScript.
 
 <hr>
 
