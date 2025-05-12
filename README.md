@@ -1,5 +1,5 @@
 ### SikuLang
-This repo is for examples of programs, written in SikuLang. A fake programming language being developed by Terminl (me)
+This repo is for examples of programs, written in Siku. A programming language being developed by Terminl (me)
 
 ### What is Siku?
 Siku is a programming language made by me (Terminl)!
@@ -12,3 +12,7 @@ Siku will be a compiled language when it's done, but first I will work on an int
 
 ### Does the code in this repository actually work?
 Nope!
+
+### About the compiler
+So in total, Project Siku is going to include the language, the compiler, and an Integrated Development Environment.
+Coming 2027
